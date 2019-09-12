@@ -18,7 +18,7 @@ class redViewController: UIViewController {
         purpleLabel.text = "new"
         self.navigationItem.title = "PURPLE"
         self.tabBarController?.tabBar.tintColor = .purple
-
+        //MARK: todo
         // Do any additional setup after loading the view.
     }
     
