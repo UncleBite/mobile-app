@@ -15,6 +15,8 @@
 		011D6FCC23283AC50081C9A5 /* redViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011D6FCB23283AC50081C9A5 /* redViewController.swift */; };
 		011D6FCE23283AE80081C9A5 /* greenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011D6FCD23283AE80081C9A5 /* greenViewController.swift */; };
 		011D6FD023283B060081C9A5 /* blueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011D6FCF23283B060081C9A5 /* blueViewController.swift */; };
+		019EEC7C233169110022DAE0 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019EEC7B233169110022DAE0 /* TableViewController.swift */; };
+		019EEC7E233174AB0022DAE0 /* cellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019EEC7D233174AB0022DAE0 /* cellViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		011D6FCB23283AC50081C9A5 /* redViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = redViewController.swift; sourceTree = "<group>"; };
 		011D6FCD23283AE80081C9A5 /* greenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = greenViewController.swift; sourceTree = "<group>"; };
 		011D6FCF23283B060081C9A5 /* blueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = blueViewController.swift; sourceTree = "<group>"; };
+		019EEC7B233169110022DAE0 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		019EEC7D233174AB0022DAE0 /* cellViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cellViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +65,10 @@
 			isa = PBXGroup;
 			children = (
 				011D6FB5232833F40081C9A5 /* AppDelegate.swift */,
+				019EEC7B233169110022DAE0 /* TableViewController.swift */,
 				011D6FB7232833F40081C9A5 /* ViewController.swift */,
 				011D6FB9232833F40081C9A5 /* Main.storyboard */,
+				019EEC7D233174AB0022DAE0 /* cellViewController.swift */,
 				011D6FCB23283AC50081C9A5 /* redViewController.swift */,
 				011D6FBC232833F50081C9A5 /* Assets.xcassets */,
 				011D6FBE232833F50081C9A5 /* LaunchScreen.storyboard */,
@@ -145,6 +151,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				011D6FCE23283AE80081C9A5 /* greenViewController.swift in Sources */,
+				019EEC7C233169110022DAE0 /* TableViewController.swift in Sources */,
+				019EEC7E233174AB0022DAE0 /* cellViewController.swift in Sources */,
 				011D6FD023283B060081C9A5 /* blueViewController.swift in Sources */,
 				011D6FB8232833F40081C9A5 /* ViewController.swift in Sources */,
 				011D6FB6232833F40081C9A5 /* AppDelegate.swift in Sources */,
