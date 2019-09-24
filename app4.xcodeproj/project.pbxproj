@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		010E99CE23340C9C002E70B9 /* myTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010E99CD23340C9C002E70B9 /* myTableViewCell.swift */; };
 		011D6FB6232833F40081C9A5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011D6FB5232833F40081C9A5 /* AppDelegate.swift */; };
 		011D6FB8232833F40081C9A5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011D6FB7232833F40081C9A5 /* ViewController.swift */; };
 		011D6FBB232833F40081C9A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 011D6FB9232833F40081C9A5 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		010E99CD23340C9C002E70B9 /* myTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myTableViewCell.swift; sourceTree = "<group>"; };
 		011D6FB2232833F40081C9A5 /* app4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = app4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		011D6FB5232833F40081C9A5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		011D6FB7232833F40081C9A5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 			children = (
 				011D6FB5232833F40081C9A5 /* AppDelegate.swift */,
 				019EEC7B233169110022DAE0 /* TableViewController.swift */,
+				010E99CD23340C9C002E70B9 /* myTableViewCell.swift */,
 				011D6FB7232833F40081C9A5 /* ViewController.swift */,
 				011D6FB9232833F40081C9A5 /* Main.storyboard */,
 				019EEC7D233174AB0022DAE0 /* cellViewController.swift */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				011D6FCE23283AE80081C9A5 /* greenViewController.swift in Sources */,
+				010E99CE23340C9C002E70B9 /* myTableViewCell.swift in Sources */,
 				019EEC7C233169110022DAE0 /* TableViewController.swift in Sources */,
 				019EEC7E233174AB0022DAE0 /* cellViewController.swift in Sources */,
 				011D6FD023283B060081C9A5 /* blueViewController.swift in Sources */,

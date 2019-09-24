@@ -11,9 +11,10 @@ import UIKit
 class cellViewController: UIViewController {
 
     @IBOutlet weak var cellDetailLabel: UILabel!
+    var animalName: String = ""
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        self.cellDetailLabel.text = animalName
         // Do any additional setup after loading the view.
     }
     
